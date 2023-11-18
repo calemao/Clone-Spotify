@@ -19,6 +19,6 @@ No entanto, a maior lição foi aprender a balancear a estética com a acessibil
 
 O projeto não esteve isento de desafios. Enfrentar questões como a compatibilidade entre navegadores e a otimização do desempenho incentivou uma abordagem mais crítica na resolução de problemas. A pesquisa constante e a colaboração com a comunidade online de desenvolvedores foram recursos inestimáveis para superar obstáculos e aprimorar minhas habilidades técnicas.
 
-**Conclusão:**
+**Conclusão do meu Projeto:**
 
 O desenvolvimento do clone do Spotify em HTML e CSS não foi apenas uma oportunidade para replicar visualmente uma plataforma conhecida, mas também uma experiência imersiva que ampliou significativamente meu conjunto de habilidades em desenvolvimento web. A combinação de desafios práticos, estudo constante e a satisfação de ver um projeto ganhando forma contribuiu para uma experiência de aprendizado rica e gratificante. Essa jornada não apenas solidificou meu conhecimento em HTML e CSS, mas também abriu as portas para explorar novas tecnologias e abordagens na vastidão do desenvolvimento web.
